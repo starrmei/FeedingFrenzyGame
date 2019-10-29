@@ -1,4 +1,4 @@
-# FeedingFrenzyGame
+# Feeding Frenzy
 
 ### Getting Started
 Download the given files and run GameProject.java to play
